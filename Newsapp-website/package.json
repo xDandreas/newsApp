@@ -1,0 +1,6 @@
+{
+    "name": "news-app",
+    "dependencies": {
+        "vue": "^2.6.14"
+    }
+}
